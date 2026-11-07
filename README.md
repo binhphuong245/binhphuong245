@@ -45,13 +45,11 @@ I specialize in building scalable data pipelines, event-driven architectures, an
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=binhphuong245&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/binhphuong245)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=binhphuong245&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/binhphuong245)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=binhphuong245&layout=compact&theme=tokyonight)](https://github.com/binhphuong245)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=binhphuong245&layout=compact&theme=tokyonight)](https://github.com/binhphuong245)
 
-[![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=binhphuong245&theme=tokyonight&hide_border=false)](https://github.com/binhphuong245)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=binhphuong245&theme=tokyonight&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Contribution Streak](https://streak-stats.demolab.com/?user=binhphuong245&theme=tokyonight&hide_border=false)](https://github.com/binhphuong245)
 
 </div>
 
@@ -70,9 +68,9 @@ I specialize in building scalable data pipelines, event-driven architectures, an
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| [**Streamlet**](https://github.com/binhphuong245/kafka) | Go single-node Kafka-inspired HTTP broker | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go) |
-| [**Sprout**](https://github.com/binhphuong245/homebrew_package_manager) | Serverless package manager for pinned CLI apps | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs) |
-| [**Stride**](https://github.com/binhphuong245/fitness_tracker_mobile) | Expo mobile fitness journal with guided workouts | ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react) |
+| [**Parmytech**](https://github.com/binhphuong245/parmytech) | Enterprise product platform and development tools | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript) |
+| [**Parmytech Social**](https://github.com/binhphuong245/parmytech-social) | Social platform with real-time features and collaboration | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs) |
+| [**My Terminal**](https://github.com/binhphuong245/my_terminal) | Custom terminal tool for developer productivity | ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust) |
 
 ---
 
