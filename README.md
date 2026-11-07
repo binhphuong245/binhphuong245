@@ -89,6 +89,4 @@ I specialize in building scalable data pipelines, event-driven architectures, an
 
 ### ⭐ "Talk is cheap. Show me the code." — Linus Torvalds
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=binhphuong245&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
